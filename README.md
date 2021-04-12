@@ -37,4 +37,9 @@ Negative Result :<br>
   <img src='Project 1/Res2.PNG' width="450" /> 
 </p> <br>
 
-# <a href='https://github.com/Johanklemantan/Simple-Image-Classifier'> Project 4 : Image Classifier Predictor </a><br>
+# <a href='https://github.com/Johanklemantan/Simple-Image-Classifier'> Project 4 : Animal Image Classifier</a><br>
+- Create a model that able to differentiate picture between Cat, Dog, and Panda. This model could be useful for animal photographer who take picture of any animal<br>
+- I was able to get the model to predict the animal with 73% accuracy after minimal tuning. For most of cases, this would meet the need of an end user of the app. To get these result, I used Sequential model with randomsearch of dense, droput, and added neuron number<br>
+- I run this model in google colab with setting of runtime using GPU for time efficiency, also I can greed it out and use colorful picture<br>
+Results :<br>
+<img src='Project 1/Confusion Matrix.PNG' width='500'>
