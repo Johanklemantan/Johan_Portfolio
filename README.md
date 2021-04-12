@@ -1,5 +1,6 @@
 # Johan_Portfolio
-Johan's Data Science Portfolio 
+Johan's Data Science Portfolio <br>
+These are some projects that I've been working on since I was graduated from Purwadhika Bootcamp School in March 2021
 
 # <a href='https://github.com/Johanklemantan/Shopee-Email-Campaign-Prediction'> Project 1 : Email Campaign Prediction</a><br>
 - Create a classification model that able to save estiamtion budget for advertisement about 74% monthly to help marketing team send promotion advertisement only to customer who will likely to read it<br>
