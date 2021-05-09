@@ -65,3 +65,11 @@ Results : <br>
 <img src='Project 1/result4.PNG'><br>
 Check my tableau post in here : <a href='https://public.tableau.com/profile/johan.klemantan.widagdo#!/vizhome/Dota27_29HeroBaseStat/Story1'>Dota 2 Hero Base Stat Visualization </a>
 
+## <a href='https://github.com/Johanklemantan/LinkedIn-Job-Vacancy-Web-Scraping'> Project 7 : Scraping Job Vacancy in Data Industry from LinkedIn </a><br>
+- Visualize the condition of what job in data industry that company is looking for. This visualization is useful for someone who is looking for a job in Data Industry and want to see the situation <br>
+- Scrap the data from <a href='https://linkedin.com'>LinkedIn</a> using Selenium<br>
+- Clean the data using pandas<br>
+- Visualize the data using Tableau <br>
+Results :<br>
+<img src='Project 1/Tableau_linkedin.PNG'><br>
+Check the interactive dashboard in <a href='https://public.tableau.com/profile/johan.klemantan.widagdo#!/vizhome/LinkedInJobVacancyAboutDatainIndonesia/Dashboard1?publish=yes'>My Tableau Profile here</a>
