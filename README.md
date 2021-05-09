@@ -1,5 +1,5 @@
 # Johan_Portfolio
-Johan's Data Science Portfolio <br>
+Johan's Data Science / Data Analyst Portfolio <br>
 These are some projects that I've been working on since I was graduated from Purwadhika Bootcamp School in March 2021
 
 ## <a href='https://github.com/Johanklemantan/Shopee-Email-Campaign-Prediction'> Project 1 : Email Campaign Prediction</a><br>
